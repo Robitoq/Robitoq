@@ -40,8 +40,6 @@
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [DRcine](https://github.com/Robitoq/DRcine) | App de filmes e séries para Android | Kotlin |
-| [DRcine-PC](https://github.com/Robitoq/DRcine-PC) | Versão do DRcine para Windows | Kotlin |
 | [DRcine-releases](https://github.com/Robitoq/DRcine-releases) | Downloads e histórico de versões | APK |
 | [pistao-furado](https://github.com/Robitoq/pistao-furado) | Jogo de carro com uma lata velha enferrujada | Kotlin |
 
