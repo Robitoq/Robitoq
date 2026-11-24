@@ -21,7 +21,7 @@
 
 [![Baixar APK](https://img.shields.io/badge/Baixar_APK-v2.1.8.6-FFD400?style=for-the-badge&logo=android&logoColor=black)](https://github.com/Robitoq/DRcine-releases/releases/latest)
 [![Site](https://img.shields.io/badge/Site-drcine--web.vercel.app-FFD400?style=for-the-badge&logo=vercel&logoColor=black)](https://drcine-web.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-DRcine-181717?style=for-the-badge&logo=github)](https://github.com/Robitoq/DRcine)
+[![Releases](https://img.shields.io/badge/Releases-DRcine-181717?style=for-the-badge&logo=github)](https://github.com/Robitoq/DRcine-releases)
 
 **Versão atual: 2.1.8.6**
 
@@ -35,6 +35,7 @@
 - 👥 **Assistir juntos:** sala com voz e chat para ver com amigos
 - 📺 **TV ao vivo** com histórico de canais
 - 🔔 **Atualização dentro do app**, com as novidades de cada versão
+- 🧩 **Addons:** cada pessoa configura do jeito que quiser
 
 ### 🧱 Projetos
 
@@ -47,4 +48,4 @@
 
 ### 📫 Fale comigo
 
-Encontrou um problema no app ou tem uma ideia? [Abra uma issue no DRcine](https://github.com/Robitoq/DRcine/issues).
+Encontrou um problema no app ou tem uma ideia? [Abra uma issue](https://github.com/Robitoq/DRcine-releases/issues).
