@@ -35,7 +35,6 @@
 - 👥 **Assistir juntos:** sala com voz e chat para ver com amigos
 - 📺 **TV ao vivo** com histórico de canais
 - 🔔 **Atualização dentro do app**, com as novidades de cada versão
-- 🧩 **Addons:** cada pessoa configura do jeito que quiser
 
 ### 🧱 Projetos
 
